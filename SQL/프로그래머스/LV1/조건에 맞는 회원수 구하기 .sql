@@ -8,7 +8,7 @@ SELECT
 FROM
     USER_INFO
 WHERE
-            BETWEEN 20 AND 29
+           AGE >= BETWEEN 20 AND 29
         AND YEAR(JOINED) = '2021'
 ;
 
