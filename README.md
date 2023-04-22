@@ -1,4 +1,4 @@
-### 알고리즘 정리
+### main.Programmers 정리
 
 SQL
 
