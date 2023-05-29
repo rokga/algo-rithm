@@ -11,7 +11,9 @@ public class 옹알이2 {
     }
 
 
-
+    //   처음에 "" 로 변경했다가, 오류가 생겼다.
+    //    만약에 "mamao" 라는 단어를 바꾸면 "o" 로 단어로 인식을 해서 틀렸다고 함.
+    //  그래서 .  으로 변경한 후 > 다시 ""로 변경을 하고, 그 이후에 "" 와 같은 값을 찾아 answer을 ++ 한다.
 
     public static int solution(String[] babbling){
        int answer = 0;
